@@ -1,0 +1,29 @@
+.content-card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.title-detail {
+  font-size: 30px;
+  text-align: center;
+  color: darkblue;
+  font-weight: bold;
+}
+.container-img-detail {
+  display: flex;
+  justify-content: center;
+}
+.img-detail {
+  width: 50%;
+}
+.descripsi-detail {
+  text-align: justify;
+}
+.title-detail-user {
+  font-size: 15px;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  margin: 0px;
+}

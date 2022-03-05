@@ -1,0 +1,21 @@
+.container-field {
+  background-color: rgb(16, 19, 231);
+  display: flex;
+  justify-content: space-between;
+  padding: 3px;
+}
+
+.daftar-masuk {
+  display: flex;
+  gap: 10px;
+  margin-right: 5px;
+}
+img {
+  width: 200px;
+}
+.text {
+  color: white;
+  font-size: medium;
+  font-weight: bold;
+  text-decoration: none;
+}
